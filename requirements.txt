@@ -1,6 +1,8 @@
 streamlit
 sentence-transformers
-qdrant-client
+qdrant-client[fastembed]
 groq
 pypdf
+torch
+pillow
 numpy
